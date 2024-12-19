@@ -14,7 +14,7 @@ The problem can be boiled down to to a few key issues:
 
 ## The System
 
-This is very much a work in progress and a living document. Nany of the following ideas come from some really smart minds I follow: 
+This is very much a work in progress and a living document. Many of the following ideas come from some really smart minds I follow: 
 
 - Mckay Wrigley: https://x.com/mckaywrigley
 - Rohan Paul: https://x.com/rohanpaul_ai
