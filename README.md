@@ -1,8 +1,8 @@
 # Coding & Development in the Era of GenAI 
 
-Coding is changing, going from ideas to inception is becoming easier and more democratized. I believe the future of coding will be less about knowing the nuances of a specific framework, library, or system and more about leveraging workflows to get a task done. Learning a programming language will be less important than being able to understand strategies and design patterns.  Knowing what a “good” system looks like and how to build a resilient architecture that you can quickly iterate on will be more important. Knowing when a solution is painting you into a corner versus building a modular system that has easily composable parts. 
+Coding is changing, going from ideas to inception is becoming easier and more democratized. I believe the future of coding will be less about knowing the nuances of a specific framework, library, or system and more about leveraging workflows to get a task done. Learning a programming language will be less important than being able to understand strategies and design patterns.  Knowing what a “good” system looks like and how to build a resilient architecture that you can quickly iterate on will be more important. Knowing when a solution is painting you into a corner versus helping you build a modular codebase built on composable parts.
 
-At this point, most of us have seen the power of AI in putting together a completely working to-do-list web app in a few minutes or a completely playable flappy birds clone with a few prompts. While this is incredible, I’ve found that as you scale to larger and larger code bases leveraging LLMs to help coding requires more methodical approaches. 
+At this point, you've probably seen examples of an LLM generating a completely working to-do-list  app or a completely playable flappy birds clone with a pretty minimal prompt. This is incredible, and definitely feels like magic. As you scale up to larger code bases it can become harder to leverage an LLM to generate new features or solve existing issues. This is where a more methodical approach can help. 
 
 The problem can be boiled down to to a few key issues:
 
